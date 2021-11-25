@@ -1,0 +1,12 @@
+Matching ORF line in frame 1: 13768..21555 with CDS: 13468..21555
+Matching ORF line in frame 1: 25393..26220 with CDS: 25393..26220
+Matching ORF line in frame 1: 26245..26472 with CDS: 26245..26472
+Matching ORF line in frame 1: 27202..27387 with CDS: 27202..27387
+Matching ORF line in frame 1: 27394..27759 with CDS: 27394..27759
+Matching ORF line in frame 2: 266..13483 with CDS: 266..13468
+Matching ORF line in frame 2: 21536..25384 with CDS: 21563..25384
+Matching ORF line in frame 2: 28274..29533 with CDS: 28274..29533
+Matching ORF line in frame 2: 29558..29674 with CDS: 29558..29674
+Matching ORF line in frame 3: 26523..27191 with CDS: 26523..27191
+Matching ORF line in frame 3: 27756..27887 with CDS: 27756..27887
+Matching ORF line in frame 3: 27894..28259 with CDS: 27894..28259
