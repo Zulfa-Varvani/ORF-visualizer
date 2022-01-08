@@ -8,8 +8,6 @@ print('Length of SARS-CoV-2 viral sequence is', len(seq), 'nucleotides')
 print('------------------------------------------------')
 def firstORF(sequence, start_position) :
     n = len(sequence)
-    # count will be the number of codons from ATG to a stop,
-    # but not counting the stop
     count = 0
     index = ()
     for i in range(start_position, n, 3) :
